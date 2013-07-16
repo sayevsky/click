@@ -1,0 +1,16 @@
+{
+  "click": {
+    "login": "1234567",
+    "password": "secret"
+  },
+  "mail": {
+    "to": {
+      "user": "your@gmail.com"
+    },
+    "from": {
+      "pass": "secret2",
+      "user": "somefrommail@gmail.com",
+      "service": "Gmail"
+    }
+  }
+}
